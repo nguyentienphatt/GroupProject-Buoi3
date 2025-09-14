@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 File mới thêm lần 3
+=======
+<<<<<<< HEAD
+Luyện tập tạo PR lần 2
+=======
+File mới thêm lần 3
+>>>>>>> bee3ec9 (Add extra-phat.txt for testing)
+>>>>>>> feature-anh
